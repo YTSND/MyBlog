@@ -1,0 +1,1 @@
+import{_ as t,p as s,q as c,R as e,t as a}from"./framework-204010b2.js";const n={},o=e("h1",{id:"写给自己的css笔记",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#写给自己的css笔记","aria-hidden":"true"},"#"),a(" 写给自己的CSS笔记")],-1),r=e("p",null,"一点一点积累，终成胖子",-1),_=[o,r];function d(i,l){return s(),c("div",null,_)}const f=t(n,[["render",d],["__file","index.html.vue"]]);export{f as default};
